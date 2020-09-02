@@ -10,7 +10,7 @@
 body {
 	width: 790px;
 	margin: 0 auto;
-	background: #0099CC url(images/bg_gradient.gif) repeat-x top;
+	background: #0099CC url(bg_gradient.gif) repeat-x top;
 	position:relative;
 }
 
@@ -66,7 +66,7 @@ strong {
 /* END HEADER */
 
 #shadow {
-	background: url(images/bg_content.gif) repeat-y;
+	background: url(bg_content.gif) repeat-y;
 	height: auto;
 	padding: 0 5px 1px 5px;
 }
@@ -75,7 +75,7 @@ strong {
 
 #menu {
 	height: 30px;
-	background: url(images/menu.gif) repeat-x;
+	background: url(menu.gif) repeat-x;
 }
 
 
@@ -110,7 +110,7 @@ strong {
 /* EDITO */
 
 #edito {
-	background: url(images/img_edito.gif) top right no-repeat;
+	background: url(img_edito.gif) top right no-repeat;
 	background-color:  #E6E6E6 ;
 }
 
@@ -139,7 +139,7 @@ strong {
 	display: block;
 	height: 25px;
 	width: 150px;
-	background: url(images/large_button.gif) no-repeat;
+	background: url(large_button.gif) no-repeat;
 	text-align: center;
 	padding-top: 3px;
 	margin-left: 290px;
@@ -153,7 +153,7 @@ strong {
 
 #toal {
 	height: 20px;
-	background: url(images/toal.gif) repeat-x;
+	background: url(toal.gif) repeat-x;
 }
 
 /* CONTENT */
@@ -201,7 +201,7 @@ a.content_button:hover, a.content_button:active {
 	display: block;
 	height: 15px;
 	width: 75px;
-	background: url(images/little_button.gif) no-repeat;
+	background: url(little_button.gif) no-repeat;
 	margin: 15px 0;
 	text-align: center;
 	font-weight: bold;
@@ -256,7 +256,7 @@ a.content_button:hover, a.content_button:active {
 
 #footer {
 	height: 70px;
-	background: url(images/botton_bg_content.gif) no-repeat;
+	background: url(botton_bg_content.gif) no-repeat;
 	padding: 0 5px;
 	margin-bottom: 20px;
 }
@@ -294,7 +294,7 @@ width: 100%; bottom: 0px; left: 0px; position: absolute; height: 40px;
 #holder {
 	min-height: 100%; position: relative; margin:0 auto;
 	-position:absolute;
-	-background: #0099CC url(images/bg_gradient.gif) repeat-x top;
+	-background: #0099CC url(bg_gradient.gif) repeat-x top;
 	-overflow-x :hidden;
 }
 
